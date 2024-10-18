@@ -1,8 +1,6 @@
 # fidelipy
 
-[![docs](https://img.shields.io/readthedocs/qnevx-fidelipy)](https://qnevx-fidelipy.readthedocs.io/)
-[![license](https://img.shields.io/github/license/qnevx/fidelipy)](https://www.apache.org/licenses/LICENSE-2.0)
-[![pypi](https://img.shields.io/pypi/v/fidelipy)](https://pypi.org/project/fidelipy/)
+[![license](https://img.shields.io/github/license/itsdarik/fidelipy)](https://www.apache.org/licenses/LICENSE-2.0)
 
 fidelipy is a simple Python 3.9+ library for semi-automated trading on fidelity.com.
 The scope is limited to the `Trade Stocks/ETFs` simplified ticket and
