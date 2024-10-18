@@ -6,6 +6,13 @@ fidelipy is a simple Python 3.9+ library for semi-automated trading on fidelity.
 The scope is limited to the `Trade Stocks/ETFs` simplified ticket and
 `Trade Mutual Funds` pages.
 
+> **Warning**
+>
+> This repo is now for informational purposes only and should not be used except as an
+> example of how to use the Playwright browser automation library. fidelity.com seems to
+> employ anomaly detection which may be triggered by this tool and cause your account to
+> be locked.
+
 ```python
 from fidelipy import Action, Driver, Unit
 from playwright.sync_api import sync_playwright
